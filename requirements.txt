@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+google-cloud-aiplatform[agent_engines,adk]
+google-cloud-discoveryengine
+deprecated
+pydantic
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+cloudpickle
